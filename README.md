@@ -28,7 +28,7 @@ functions:
 
 ### Invocation
 
-After successful deployment, you can invoke the deployed function by using the following command:
+After successful deployment, you can invoke the deployed function by using the following command: 
 
 ```bash
 npm run mememake
