@@ -1,4 +1,4 @@
-# Image Analyzer
+# MemeMaker
 
  Meme Maker project is a tool for creating memes. It allows users to add text to an image of their choice and save the result as a new image. The tool takes in an image file and text inputs, then using image processing libraries, specifically [GraphicsMagick](http://www.graphicsmagick.org/), it applies the text on the image and outputs the final meme image.
 
